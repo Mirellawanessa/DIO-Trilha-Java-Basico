@@ -1,0 +1,42 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "cSpell.words": [
+        "agencia",
+        "agência",
+        "após",
+        "capturando",
+        "cliente",
+        "Consumir",
+        "Conta",
+        "Criando",
+        "criar",
+        "Digite",
+        "disponível",
+        "está",
+        "Exibindo",
+        "Fechando",
+        "informados",
+        "inicial",
+        "insuficiente",
+        "linha",
+        "mensagem",
+        "nosso",
+        "numero",
+        "número",
+        "obrigado",
+        "quebra",
+        "realizado",
+        "receber",
+        "sacar",
+        "saldo",
+        "Saque",
+        "Solicitando",
+        "sucesso",
+        "usuario",
+        "usuário"
+    ]
+}
