@@ -5,6 +5,7 @@
         "lib/**/*.jar"
     ],
     "cSpell.words": [
+<<<<<<< HEAD
         "abreviada",
         "AGUARDANDO",
         "analisar",
@@ -66,5 +67,40 @@
         "TENTATIVA",
         "tentativas",
         "vaga"
+=======
+        "agencia",
+        "agência",
+        "após",
+        "capturando",
+        "cliente",
+        "Consumir",
+        "Conta",
+        "Criando",
+        "criar",
+        "Digite",
+        "disponível",
+        "está",
+        "Exibindo",
+        "Fechando",
+        "informados",
+        "inicial",
+        "insuficiente",
+        "linha",
+        "mensagem",
+        "nosso",
+        "numero",
+        "número",
+        "obrigado",
+        "quebra",
+        "realizado",
+        "receber",
+        "sacar",
+        "saldo",
+        "Saque",
+        "Solicitando",
+        "sucesso",
+        "usuario",
+        "usuário"
+>>>>>>> 1ff947a26125a5fe6177310badca456e84eec73b
     ]
 }
